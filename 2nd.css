@@ -1,6 +1,6 @@
 body{
 
-    background-image: url(sleepy\ cat.jpg);
+    background-image: url(sleepy\ cat.png);
     background-size: contain;
     height: 800px;
     width: 700px;
@@ -55,7 +55,7 @@ img {
     opacity: .6;
     font-weight: 900;
     size: 70px;
-    background-image: url(CAT\ LOGIN.jpg);
+    background-image: url(CAT\ LOGIN.png);
     background-size: cover;
     background-repeat: no-repeat;
     position: fixed;

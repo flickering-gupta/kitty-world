@@ -1,5 +1,5 @@
 body{
-    background-image: url(car\ image.jpg);
+    background-image: url(car\ image.png);
     height: 800px;
     background-repeat: no-repeat;
     
@@ -88,7 +88,7 @@ p{
     
 }
 #kitty {
-    background-image: url(cat.jpg);
+    background-image: url(cat.png);
     height: 80px;
     width: 80px;
     border-radius: 50%;
