@@ -1,0 +1,14 @@
+#navbar {
+    background-color: black;
+    margin-right: 120px;
+    color: white
+    text-decoration: none;
+}
+
+#parent div{
+
+    height: 100px;
+    width: 100px;
+    display: block;
+    
+}

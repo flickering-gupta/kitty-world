@@ -1,0 +1,115 @@
+body{
+    background-image: url(car\ image.jpg);
+    height: 800px;
+    background-repeat: no-repeat;
+    
+}
+img {
+    border-radius: 30%;
+    margin-left: 0px;
+    position:fixed;
+    height: 200px;
+    width: 200px;
+    margin-left: 210px;
+    margin-top: -20px;
+    
+}
+#topmost {
+    margin-top: 10px;
+    text-align: center;
+    font-size: 100px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(120, 69, 33);
+    text-transform:capitalize;
+    opacity: .8;
+    text-decoration:overline;
+    position: fixed;
+    margin-left: 450px;
+    
+}
+#welcome_head {
+    
+    text-align: center;
+    font-size: 60px;
+    font-family:cursive;
+    color: rgb(120, 69, 33);
+    text-transform:lowercase;
+    opacity: .7;
+    text-decoration:solid;
+
+
+}
+form{
+    text-align: center;
+}
+#cat { 
+    color: rgb(131, 50, 21);
+    font-size: 50px;
+    text-align: center;
+    height: 400px;
+    width: 100px;
+    margin-left: 650px;
+    margin-top: 200px;
+    font-family:fantasy;
+    opacity: .8;
+    text-transform: uppercase;
+    display: inline-block;
+
+}
+p{
+    text-align: center;
+    font-size: 40px;
+    color:peru;
+}
+#login {
+    background-color:burlywood ;
+    
+    opacity: 0.9;
+    height: 400px;
+    width: 500px;
+    margin-left: 500px;
+    margin-bottom: 200px;
+    background: cover;
+    border-radius: 5%;
+    border: black;
+    border-radius: 10%;
+    border: 10px;
+    border-color: peru;
+}
+#inside_login {
+    width: 400px;
+    height: 400px;
+    border: maroon;
+
+    margin-left: 50px;
+    
+    
+
+    
+}
+#kitty {
+    background-image: url(cat.jpg);
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: 500px;
+    margin-bottom: 700px;
+
+}
+button{
+
+    background-color: rgb(228, 158, 108);
+    border-radius:0%;
+    border: 10px;
+    transition-property: all;
+    transition-duration: 0;
+    transition-timing-function: steps(1);
+    
+}
+button:hover{
+    font-size: 20px;
+    height: 30px;
+    width: 200px;
+}

@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+}
+#divorce{
+    height: 400px;
+    width: 400px;
+    font-size: 30px;
+   background-color:darkmagenta;
+   transition-property: all;
+   transition-duration: 3s;
+   
+   
+}
+#divorce:hover{
+    background-color: cadetblue;
+    border: 2px solid black;
+    font-size: 50px;
+
+}
+#class{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 20px solid #BD8B9C;
+    border-left: 20px solid #AF125A; 
+    animation: loader 2s ease-in 0s infinite normal;
+}
+@keyframes loader {
+        from{
+            transform: rotate(0deg);
+        }
+        to{
+            transform: rotate(360deg);
+        }
+}
