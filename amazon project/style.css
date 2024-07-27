@@ -238,7 +238,7 @@
 }
 .rdbox{
     height: 350px;
-    width: 290px;
+    width: 320px;
     background-color: white;
     padding: 20px 20px 20px 20px;
     color: #0F1111;
@@ -252,11 +252,12 @@
 
 }
 .thbox{
-    height: 350px;
+    height: 170px;
     width: 290px;
     background-color: white;
-    font-size: 21px;
+    font-size: 23px;
     padding: 20px 20px 20px 20px;
+    
 
 }
 .thbox a{
@@ -274,4 +275,8 @@
     position: absolute;
 
 }
+
+    
+    
+
 
